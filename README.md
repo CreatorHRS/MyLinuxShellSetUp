@@ -5,4 +5,4 @@ Clone git repo
 `git clone https://github.com/CreatorHRS/MyLinuxShellSetUp.git && cd ./MyLinuxShellSetUp`
 
 Run script
-`./set_up.sh`
+`sudo ./set_up.sh`
